@@ -1,0 +1,7 @@
+[
+  { "id": "take_medicine", "text": "Please take your medicine now." },
+  { "id": "fall_check", "text": "A fall was detected. Are you okay?" },
+  { "id": "sos_sent", "text": "Help is on the way. Your caregiver has been alerted." },
+  { "id": "low_battery", "text": "Battery is low. Please charge your glasses." },
+  { "id": "obstacle", "text": "Obstacle ahead." }
+]
